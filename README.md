@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">"I'm currently working on Verilog projects and have a keen interest in wireless communications. Every day, I absorb new knowledge and keep practicing. The goal is simple: to master creating efficient and functional digital designs while exploring advancements in wireless technologies."</h3>
+<h3 align="center">"I'm currently working on embedded projects and have a keen interest in embedded systems. Every day, I absorb new knowledge and keep practicing. The goal is simple: to master creating efficient and functional embedded designs while exploring advancements in embedded technologies."</h3>
 
 
 - 🔭 I’m currently working on **Embedded Projects, Microcontroller & microprocessor**
