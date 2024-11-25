@@ -57,23 +57,16 @@
 </p>
 
 
-## 📈 GitHub Stats
+<h2 align="left" style="color:#00FF00;">📈 GitHub Stats</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div style="margin: 10px; text-align: center;">
-    <h3>Stats Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=vamsikrishnaAM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="180" alt="stats graph"/>
-  </div>
+![SAI NARESH github stats](https://github-readme-stats.vercel.app/api?username=vamsikrishnaAM&theme=chartreuse-dark)
 
-  <div style="margin: 10px; text-align: center;">
-    <h3>Languages Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsikrishnaAM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false" height="180" alt="languages graph"/>
-  </div>
+![SAI NARESH languages used](https://github-readme-stats.vercel.app/api/top-langs?username=vamsikrishnaAM&theme=chartreuse-dark)
 
-  <div style="margin: 10px; text-align: center;">
-    <h3>Streak Graph</h3>
-    <img src="https://streak-stats.demolab.com?user=vamsikrishnaAM&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
-  </div>
+<div style="margin: 10px; text-align: center;">
+        <img src="https://streak-stats.demolab.com?user=vamsikrishnaAM&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="180" alt="Streak Graph" />
+    </div>
+</div>
 
  
 </div>
