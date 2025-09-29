@@ -59,9 +59,9 @@
 
 <h2 align="left" style="color:#00FF00;">📈 GitHub Stats</h2>
 
-![SAI NARESH github stats](https://github-readme-stats.vercel.app/api?username=vamsikrishnaAM&theme=chartreuse-dark)
+![VAMSIKRISHNA AM github stats](https://github-readme-stats.vercel.app/api?username=vamsikrishnaAM&theme=chartreuse-dark)
 
-![SAI NARESH languages used](https://github-readme-stats.vercel.app/api/top-langs?username=vamsikrishnaAM&theme=chartreuse-dark)
+![VAMSIKRISHNA AM languages used](https://github-readme-stats.vercel.app/api/top-langs?username=vamsikrishnaAM&theme=chartreuse-dark)
 
 <div style="margin: 10px; text-align: center;">
         <img src="https://streak-stats.demolab.com?user=vamsikrishnaAM&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="180" alt="Streak Graph" />
