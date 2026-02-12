@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Embedded Projects, Microcontroller & microprocessor**
 
-- 🌱 I’m currently learning **Arduino , Microcontroller & microprocessor**
+- 🌱 I’m currently learning **Arduino , Microcontroller & microprocessor, ARM cortex LPC1768, 8051, basic electronics,Embedded C**
 
 - 💬 Ask me about **anything (Related to ECE 😅) ! I'm here to help.**
 
